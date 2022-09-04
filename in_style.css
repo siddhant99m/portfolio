@@ -1,0 +1,71 @@
+body{
+    background-color: #161616;
+}
+#welcome{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 300%;
+    color: white;
+    
+}
+.wel_img{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+.icon{
+    padding:2%;
+    font-weight:bold;
+}
+.name{
+    color: #dde3ea;
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 2%}
+.row{
+    padding:3% 25% 3% 25% ;
+  
+    
+}
+.icn_btn{
+    text-align: center;
+    padding: 2% 0 2% 0;
+    /* width: 40%; */
+    
+}
+.icon{
+    padding:.5% 2% .5% 2%;
+    margin: 0 2% 0 2%;
+
+}
+
+button:hover{
+    background-color: grey;
+}
+
+#contact {
+    text-align: center;
+    font-size: 35px;
+    color: #dde3ea;
+    padding: 0;
+}
+
+.handles {
+    margin: 0 3%;
+    color: #fff;
+}
+
+.handles:hover {
+    color: rgb(42, 42, 198);
+}

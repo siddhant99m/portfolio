@@ -1,0 +1,127 @@
+/* navbar */
+#title {
+    background-color: #161515;
+    color: #fff;
+    padding-bottom: 3%;
+}
+
+.container-fluid {
+    padding: 2% 10%;
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.navbar-item {
+    font-weight: bold;
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+}
+
+/* heading */
+.row {
+    padding-top: 4%;
+}
+
+.heading {
+    padding-top: 3.5rem;
+}
+
+.about {
+    font-family: 'Montserrat', sans-serif;
+    padding: 2.5rem 0 0 2.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 25px;
+    font-size: 21px;
+}
+
+.me {
+    padding-left: 5%;
+}
+
+.head_image {
+    margin-left: rem;
+}
+
+.name {
+    padding: 9% 0 0 8%;
+}
+
+/* skills */
+#skills {
+    padding: 3% 15% 0% 15%;
+}
+
+.icon {
+    margin-bottom: 1rem;
+}
+
+.h4_skills {
+    text-align: center;
+    padding-bottom: 2%;
+    font-size: 2.8rem;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.skills_box {
+    text-align: center;
+    padding-top: 0%;
+
+}
+
+h3 {
+    font-family: 'Baloo Bhaina 2';
+    /* font-family: 'Pacifico'; */
+    font-size: 2rem;
+    line-height: 1;
+}
+
+/* h3 {
+    font-family: Baloo Bhaijaan 2-medium 500;
+} */
+
+.pro_r {
+    padding: 2rem;
+}
+
+/* education */
+#education {
+    padding: 0% 15% 3% 15%;
+    text-align: center;
+    background-color: #161515;
+}
+
+.sch {
+    padding: 0% 0%;
+    color: #dde3ea;
+    /* margin: 2% 2%; */
+    font-weight: bold;
+}
+
+.h4_education {
+    color: #fff;
+    font-size: 2.8rem;
+    line-height: 2;
+}
+
+/* contact */
+#contact {
+    text-align: center;
+    font-size: 35px;
+    color: #dde3ea;
+    padding: 2% 0;
+}
+
+.handles {
+    margin: 0 3%;
+    color: #161515;
+}
+
+.handles:hover {
+    color: rgb(42, 42, 198);
+}
